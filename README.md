@@ -22,4 +22,5 @@
 
 1. **Clona el repositorio**:
    ```bash
+   https://github.com/Acosta2808/Juego-del-amigo-secreto.git
   
